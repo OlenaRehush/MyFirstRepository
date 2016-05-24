@@ -12,6 +12,9 @@ namespace MyFirstTask
             var y = Calculator.Minus(2, -2);
             Console.WriteLine("y = {0}", y);
 
+            var z = Calculator.Multiplication(2, -2);
+            Console.WriteLine("z = {0}", z);
+
             Console.ReadKey();
         }
     }
