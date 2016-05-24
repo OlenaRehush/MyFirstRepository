@@ -11,5 +11,10 @@
         {
             return a - b;
         }
+
+        public static double Multiplication(double a, double b)
+        {
+            return a * b;
+        }
     }
 }
